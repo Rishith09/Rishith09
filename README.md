@@ -1,6 +1,6 @@
 ### Hello there, This is Rishith 
 
-## A fast learner and keen to work on Iot and AI.
+## A fast learner and keen to work on Electric Vehicles .
 
 Currently i am graduating B.Tech EEE in Vellore Institute Of Technology.
 
